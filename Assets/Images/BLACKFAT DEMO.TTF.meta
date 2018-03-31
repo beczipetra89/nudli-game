@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b48d609cfb764334cb550931311409b1
+timeCreated: 1512931099
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlackFat
+  fontNames:
+  - BlackFat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
